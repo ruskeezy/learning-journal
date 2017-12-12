@@ -1,0 +1,3 @@
+# Learning Journal
+
+  - Today I cemented a lot of knowledge about objects. I'm sure they'll be harder when constructors get introduced, but for now they're pretty simple, and I can see why they're the most used thing in Javascript.
