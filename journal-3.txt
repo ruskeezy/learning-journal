@@ -1,0 +1,3 @@
+# Learning Journal
+
+  - Learned a lot about debugging today, plus useful tools like break points and the debugger statement. Also, we went over a small intro of prototypal inheritance in javascript. Lots more to learn about that, but what we did was useful, such as giving instances of an object a method through Someconstructor.prototype.somemethod 
