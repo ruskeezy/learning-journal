@@ -1,0 +1,3 @@
+# Learning Journal
+
+  -Today we went over a form demo in class. It was a little confusing for me on the first run through, definitely more so than object literals or constructor functions. Hopefully i'll get a much better understanding tomorrow during review.
