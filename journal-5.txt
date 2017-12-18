@@ -1,0 +1,3 @@
+# Learning Journal
+
+ - Overall, this week was not as challenging as I expected it to be. Every assignment I had a few issues that was breaking my code, but they were mainly things like spelling or locational problems, not due to misunderstanding the concepts that were taught. I think I have a good understanding of objects(literal/constructor functions) and why things like forms are so important.
