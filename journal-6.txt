@@ -1,0 +1,3 @@
+# Learning Journal
+
+  - I stated in my assignment submission that i've had trouble understanding DOM manipulation, which is a fundemental aspect of web development. I'm going to re-read, and ask TAs for help on the subject. 
