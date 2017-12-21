@@ -1,0 +1,3 @@
+# Learning Journal
+
+  - Today we went over how local storage works in the browser. localStorage itself is an object, with methods and properties. You can add to local storage through javascript, which is what makes things like saved scroll position work.
