@@ -1,0 +1,3 @@
+# Learning Journal
+
+    - This week's pace has been really fast. Combined with week 2 being our first week with backend development, building a full CRUD app from scratch is definitely a tough task. I didn't get enough repitition/practice in with endpoints/routing. Progress is slow on the booklist app, but looking to leverage TAs and my brother's experience for get through that last level of understanding. 
